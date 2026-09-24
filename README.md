@@ -13,17 +13,17 @@ A simple tool for Adobe Photoshop that batch-replaces texts, image layers from C
 - **Clean UI:** Built with an intuitive ScriptUI dialog interface.
 
 ## 🚀 Installation
-#1. Download the Script:
+### 1. Download the Script:
 Download the latest CSV_Auto_Replace.jsx file from the Releases page.
 
-#2. Copy to Photoshop Scripts Folder:
+### 2. Copy to Photoshop Scripts Folder:
 Place the .jsx file into your Photoshop installation directory:
 
 Windows: C:\Program Files\Adobe\Adobe Photoshop [Version]\Presets\Scripts\
 
 macOS: /Applications/Adobe Photoshop [Version]/Presets/Scripts/
 
-#3. Restart Photoshop:
+### 3. Restart Photoshop:
 Once installed, access the script in Photoshop from File > Scripts > CSV_Auto_Replace.
 
 Note: Alternatively, you can run the script without moving it by opening Photoshop and navigating to File > Scripts > Browse... and selecting CSV_Auto_Replace.jsx.
