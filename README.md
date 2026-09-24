@@ -14,7 +14,7 @@ A simple tool for Adobe Photoshop that batch-replaces texts, image layers from C
 
 ## 🚀 Installation
 ### 1. Download the Script:
-Download the latest CSV_Auto_Replace.jsx file from the [Release](https://img.shields.io/github/v/release/leondraceus/Photoshop-Auto-Replace-Texts-Image-Layers?color=green) page.
+Download the latest CSV_Auto_Replace.jsx file from the [Release](https://github.com/leondraceus/Photoshop-Auto-Replace-Texts-Image-Layers/releases/new) page.
 
 ### 2. Copy to Photoshop Scripts Folder:
 Place the .jsx file into your Photoshop installation directory:
